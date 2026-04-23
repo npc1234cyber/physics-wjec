@@ -1,0 +1,214 @@
+# WJEC GCE AS/A Level Physics Specification Cheat Sheet
+
+## AS UNIT 1: MOTION, ENERGY AND MATTER
+
+### 1. Basic Physics
+- **SI Base Units:** The 6 essential base SI units (kg, m, s, A, mol, K).
+- **Homogeneity:** Represent units in terms of base units and prefixes; check equations for homogeneity.
+- **Scalars & Vectors:** Differentiate and give examples (displacement, velocity, acceleration, force, speed, time, density, pressure). Add, subtract, and resolve coplanar vectors (perpendicular components).
+- **Density:** $\rho = \frac{m}{V}$.
+- **Moments:** Turning effect of a force; Principle of Moments.
+- **Centre of Gravity:** Position in a cylinder, sphere, and cuboid.
+- **Equilibrium:** Resultant force is zero, net moment is zero.
+- **Specified Practical:** Measurement of the density of solids; Determination of unknown masses using the principle of moments.
+
+### 2. Kinematics
+- **Definitions:** Displacement, mean and instantaneous values of speed, velocity, and acceleration.
+- **Graphs:** Representation and properties of displacement-time and velocity-time graphs; interpret for non-uniform acceleration.
+- **Equations of Motion:** Derive and use equations for uniformly accelerated motion in a straight line.
+- **Gravity & Freefall:** Motion of bodies falling in a gravitational field with/without air resistance (terminal velocity). Independence of vertical and horizontal motion.
+- **2D Motion:** Uniform velocity in one direction and uniform acceleration in a perpendicular direction.
+- **Specified Practical:** Measurement of $g$ by freefall.
+
+### 3. Dynamics
+- **Newton's Laws:** Concept of force; Newton's 3rd Law; use of $F = ma$ (constant mass).
+- **Free Body Diagrams:** Represent forces on a particle or body.
+- **Momentum:** Linear momentum $p = mv$; Force as the rate of change of momentum.
+- **Collisions:** Principle of conservation of momentum; solve 1D problems for elastic (no loss of KE) and inelastic collisions.
+- **Specified Practical:** Investigation of Newton’s 2nd law.
+
+### 4. Energy Concepts
+- **Work:** Product of force and distance in the direction of the force ($W = Fx$); when not along line of motion: $W = Fx \cos\theta$.
+- **Energy Conservation:** Include GPE ($mgh$), EPE ($\frac{1}{2}kx^2$), and KE ($\frac{1}{2}mv^2$).
+- **Work-Energy Relationship:** $Fx = \frac{1}{2}mv^2 - \frac{1}{2}mu^2$.
+- **Power:** Rate of energy transfer.
+- **Efficiency:** Efficiency = (useful energy transfer / total energy input) $\times 100\%$. Dissipative forces (friction, drag) reduce efficiency.
+
+### 5. Solids Under Stress
+- **Hooke's Law:** $F = kx$ ($k$ is spring constant).
+- **Stress & Strain:** Tensile stress $\sigma = \frac{F}{A}$, tensile strain $\varepsilon = \frac{\Delta l}{l}$, Young modulus $E = \frac{\sigma}{\varepsilon}$.
+- **Strain Energy:** Work done deforming a solid = area under force-extension graph ($\frac{1}{2}Fx$ if Hooke's law is obeyed).
+- **Classification of Solids:** Crystalline, amorphous (glasses/ceramics), polymeric.
+- **Metals:** Force-extension graph features (elastic/plastic strain, necking, ductile fracture). Effects of dislocations and strengthening by barriers (foreign atoms, grain boundaries).
+- **Brittle Materials:** Hooke's law up to fracture, brittle fracture by crack propagation. Effect of surface imperfections; toughening by surface compression.
+- **Rubber:** Low Young modulus, approximate Hooke's law, extension by straightening chain molecules, hysteresis.
+- **Specified Practical:** Determination of Young modulus of a metal wire; Investigation of the force-extension relationship for rubber.
+
+### 6. Using Radiation to Investigate Stars
+- **Stellar Spectra:** Continuous emission spectrum (dense surface gas) and line absorption spectrum (tenuous atmosphere).
+- **Black Bodies:** Stars approximate black bodies; peak wavelength is inversely proportional to absolute temperature ($T(K) = ^\circ C + 273.15$).
+- **Laws:** Wien's displacement law, Stefan's law, inverse square law (investigate luminosity, size, temperature, distance).
+- **Multiwavelength Astronomy:** Studying space at different photon energies reveals different processes.
+
+### 7. Particles and Nuclear Structure
+- **Quarks & Leptons:** Matter composed of 3 generations (focus on 1st). Antiparticles have identical properties but opposite charge; annihilate with particles.
+- **Hadrons:** Quarks/antiquarks are never isolated. Baryons (3 quarks), antibaryons (3 antiquarks), mesons (quark-antiquark pair). Composition of protons (uud) and neutrons (udd).
+- **Interactions:** Gravitational (all matter, infinite range), Weak (all leptons/quarks, very short range), Electromagnetic (charged particles, infinite), Strong (all quarks, short range).
+- **Conservation Laws:** Charge, lepton number, and baryon/quark number in simple reactions.
+- **Weak Interactions:** Neutrino involvement and quark flavour changes are exclusive to weak interactions.
+
+## AS UNIT 2: ELECTRICITY AND LIGHT
+
+### 1. Conduction of Electricity
+- **Charge & Current:** Unit is coulomb (C). Electric current $I = \frac{\Delta Q}{\Delta t}$, measured in ampères (A).
+- **Conduction Mechanism:** Drift of free electrons in metals.
+- **Equation:** $I = nAve$ for free electrons.
+
+### 2. Resistance
+- **Potential Difference:** Measured in volts ($V = J C^{-1}$).
+- **Ohm's Law:** $V = IR$; $I-V$ graphs for filament lamp and metal wire at constant temperature.
+- **Power:** $P = IV = I^2R = \frac{V^2}{R}$.
+- **Resistivity:** $R = \frac{\rho l}{A}$.
+- **Temperature Effects:** Collisions between free electrons and ions increase random vibration energy, increasing resistance. Resistance of metals varies linearly with temperature.
+- **Superconductivity:** Transition temperature near absolute zero; high-temp superconductors above boiling point of nitrogen. Uses: MRI, particle accelerators.
+- **Specified Practical:** I-V characteristics of a filament lamp and metal wire; Determination of resistivity; Variation of resistance with temperature.
+
+### 3. D.C. Circuits
+- **Series & Parallel Rules:** Current in parallel branches sums to total (conservation of charge). PD in series sums to supply PD (conservation of energy). PD across parallel components is equal.
+- **Resistor Combinations:** Equations for series and parallel.
+- **Potential Dividers:** Use in circuits (including LDRs, thermistors).
+- **Electromotive Force (emf):** Internal resistance $r$ using $V = E - Ir$. Calculate current and PD in circuits.
+- **Specified Practical:** Determination of internal resistance of a cell.
+
+### 4. The Nature of Waves
+- **Wave Types:** Progressive wave transfers energy without matter. Transverse vs. longitudinal waves.
+- **Wave Properties:** Polarisation, phase, antiphase, displacement, amplitude, wavelength, frequency, period, velocity.
+- **Wave Equation:** $c = f\lambda$.
+- **Wavefronts:** Points oscillate in phase; propagation directions (rays) are perpendicular.
+- **Specified Practical:** Measurement of intensity variations for polarisation.
+
+### 5. Wave Properties
+- **Diffraction:** Occurs at slits/obstacles. Dependent on wavelength vs. slit width.
+- **Interference:** Two source interference; conditions (constant phase difference, same direction of oscillation). Path difference rules for constructive/destructive interference.
+- **Equations:** Young's double slits $\lambda = \frac{ay}{D}$; Diffraction grating $d\sin\theta = n\lambda$.
+- **Coherence:** Monochromatic, continuous wavefronts, constant phase relationship.
+- **Stationary Waves:** Superposition of two equal progressive waves in opposite directions. Internodal distance = $\lambda/2$.
+- **Specified Practical:** Wavelength using Young's double slits; Wavelength using diffraction grating; Speed of sound using stationary waves.
+
+### 6. Refraction of Light
+- **Refractive Index:** $n = \frac{c}{v}$.
+- **Snell's Law:** $n_1v_1 = n_2v_2$ and $n_1\sin\theta_1 = n_2\sin\theta_2$.
+- **Total Internal Reflection (TIR):** Conditions; critical angle $n_1\sin C = n_2$.
+- **Optical Fibres:** TIR in multimode fibres; multimode dispersion limits data rate/distance; monomode fibres resolve this.
+- **Specified Practical:** Measurement of the refractive index of a material.
+
+### 7. Photons
+- **Photoelectric Effect:** Light as discrete packets (photons). Vacuum photocell measures max kinetic energy ($E_{k \text{ max}}$).
+- **Einstein's Equation:** $E_{k \text{ max}} = hf - \Phi$.
+- **EM Spectrum:** Visible (700nm to 400nm) and orders of magnitude of other regions.
+- **Atomic Spectra:** Line emission and absorption spectra from atoms; energy level diagrams; ionisation energies.
+- **Wave-Particle Duality:** Electron diffraction demonstrates wave aspect. de Broglie relationship $p = \frac{h}{\lambda}$.
+- **Radiation Pressure:** Calculated on surfaces absorbing/reflecting photons.
+- **Specified Practical:** Determination of $h$ using LEDs.
+
+### 8. Lasers
+- **Operation:** Stimulated emission leads to coherent light. Requires population inversion ($N_2 > N_1$), achieved via pumping in 3/4-level systems.
+- **Structure:** Amplifying medium between two mirrors (one partially transmitting).
+- **Semiconductor Lasers:** Small, cheap, highly efficient. Uses: CDs, DVDs, telecommunications.
+
+## A2 UNIT 3: OSCILLATIONS AND NUCLEI
+
+### 1. Circular Motion
+- **Fundamentals:** Period of rotation, frequency, radian measure, angular velocity $\omega$.
+- **Centripetal Force:** Resultant force acting towards the centre on a body moving at constant speed in a circle.
+- **Equations:** $v = \omega r$, $a = \omega^2 r = \frac{v^2}{r}$, $F = m\omega^2 r = \frac{mv^2}{r}$.
+
+### 2. Vibrations
+- **Simple Harmonic Motion (SHM):** Defined by $a = -\omega^2 x$.
+- **Equations:** $x = A\cos(\omega t + \varepsilon)$, $v = -A\omega\sin(\omega t + \varepsilon)$, $T = \frac{2\pi}{\omega} = \frac{1}{f}$.
+- **Systems:** Mass-spring $T = 2\pi\sqrt{\frac{m}{k}}$; Simple pendulum $T = 2\pi\sqrt{\frac{l}{g}}$.
+- **Energy:** Interchange between KE and PE during undamped SHM.
+- **Damping & Resonance:** Free/forced oscillations, critical damping (vehicle suspensions). Resonance variation with driving frequency; damping broadens resonance curve.
+- **Specified Practical:** Measurement of $g$ with a pendulum; Investigation of spring damping.
+
+### 3. Kinetic Theory
+- **Ideal Gas Equations:** $pV = nRT$ and $pV = NkT$.
+- **Kinetic Theory:** Assumptions (random energy distribution); Pressure $p = \frac{1}{3}\rho\bar{c^2} = \frac{1}{3}\frac{N}{V}m\bar{c^2}$.
+- **Energy:** Mean KE of a molecule = $\frac{3}{2}kT$; Total translational KE of a mole = $\frac{3}{2}RT$. $T \propto$ mean KE.
+
+### 4. Thermal Physics
+- **Internal Energy ($U$):** Sum of PE and KE of molecules. Minimum at absolute zero. For ideal monatomic gas: wholly kinetic ($U = \frac{3}{2}nRT$).
+- **Heat & Work:** Both are energy in transit. Work done by a gas at constant pressure $W = p\Delta V$ (or area under $p-V$ graph).
+- **First Law of Thermodynamics:** $\Delta U = Q - W$.
+- **Specific Heat Capacity:** For solid/liquid, $W \approx 0 \rightarrow Q = \Delta U$. $Q = mc\Delta\theta$.
+- **Specified Practical:** Estimation of absolute zero using gas laws; Measurement of specific heat capacity for a solid.
+
+### 5. Nuclear Decay
+- **Radiation:** Nature of $\alpha$, $\beta$, $\gamma$ decay. Background radiation allowance.
+- **Activity & Half-life:** Activity $A$ (Becquerels); $A = \lambda N$.
+- **Exponential Decay:** $N = N_0e^{-\lambda t}$ or $N_0 / 2^x$; $A = A_0e^{-\lambda t}$ or $A_0 / 2^x$. Decay constant $\lambda = \frac{\ln 2}{T_{1/2}}$.
+- **Specified Practical:** Radioactive decay dice analogy; Variation of gamma intensity with distance.
+
+### 6. Nuclear Energy
+- **Mass-Energy:** $E = mc^2$. Binding energy per nucleon; use of unified atomic mass unit ($u$).
+- **Fission & Fusion:** Conservation of mass/energy. Relevance of BE per nucleon curve.
+
+## A2 UNIT 4: FIELDS AND OPTIONS
+
+### 1. Capacitance
+- **Parallel Plate Capacitor:** Equal/opposite charges. $C = \frac{Q}{V}$.
+- **Equations:** $C = \frac{\varepsilon_0 A}{d}$; uniform $E = \frac{V}{d}$; Energy $U = \frac{1}{2}QV$.
+- **Circuits:** Series and parallel combination rules.
+- **Discharge/Charge:** $Q = Q_0(1 - e^{-t/RC})$ and $Q = Q_0e^{-t/RC}$ ($RC$ = time constant).
+- **Specified Practical:** Charging/discharging to determine $RC$; Energy stored in a capacitor.
+
+### 2. Electrostatic and Gravitational Fields
+- **Gravitational Field:** $g = \frac{F}{m}$. Outside spherical body acts as point mass at centre. $F = G\frac{M_1M_2}{r^2}$. Potential $\Delta U_p = mg\Delta h$.
+- **Electric Field:** $E = \frac{F}{Q}$. Field lines give direction. Equipotential surfaces. Superposition of potentials/fields.
+
+### 3. Orbits and the Wider Universe
+- **Kepler & Newton:** Kepler's 3 laws; derive 3rd law from Newton's gravitation.
+- **Dark Matter:** Implied by orbital speeds in spiral galaxies.
+- **Binary Systems:** Centre of mass; mutual orbital period.
+- **Doppler Shift:** $\frac{\Delta\lambda}{\lambda} = \frac{v}{c}$. Used to find radial velocities.
+- **Cosmology:** Hubble constant $v = H_0 D$; Age of universe $\approx 1/H_0$. Critical density $\rho_c = \frac{3H_0^2}{8\pi G}$.
+
+### 4. Magnetic Fields
+- **Magnetic Force:** On conductor $F = BIl\sin\theta$; on moving charge $F = Bqv\sin\theta$.
+- **Hall Effect:** Hall voltage $V_H \propto B$ (for constant $I$).
+- **Field Shapes:** Long straight wire ($B = \frac{\mu_0I}{2\pi a}$); Solenoid ($B = \mu_0nI$, iron core increases strength).
+- **Particle Accelerators:** Deflection of ion beams in fields; linear accelerators, cyclotrons, synchrotrons.
+- **Specified Practical:** Force on a current in a magnetic field; Magnetic flux density using a Hall probe.
+
+### 5. Electromagnetic Induction
+- **Magnetic Flux:** $\Phi = AB\cos\theta$; Flux linkage = $N\Phi$.
+- **Faraday's & Lenz's Laws:** emf = - rate of change of flux linkage. Linear conductor moving in uniform field. Instantaneous emf in a rotating coil.
+
+## A2 UNIT 4 OPTIONS (Select 1 of 4)
+
+### Option A: Alternating Currents
+- **AC Generation:** Rotating coil flux linkage $BAN\cos\omega t \rightarrow V = \omega BAN\sin\omega t$.
+- **RMS Values:** $I_{\text{rms}} = I_0 / \sqrt{2}$, $V_{\text{rms}} = V_0 / \sqrt{2}$. Power $P = I_{\text{rms}}V_{\text{rms}}$.
+- **Reactance:** Inductor lags 90° ($X_L = \omega L$); Capacitor leads 90° ($X_C = \frac{1}{\omega C}$). Mean power dissipated in L/C is zero.
+- **Circuits:** Phasors for series RC, RL, RCL; phase angle; impedance $Z = \frac{V_{\text{rms}}}{I_{\text{rms}}}$. Resonance frequency; Q factor $\frac{V_L}{V_R}$.
+
+### Option B: Medical Physics
+- **X-Rays:** Production, spectra control, attenuation $I = I_0 e^{-\mu x}$. High energy (therapy), low energy (diagnosis). CT scanners, fluoroscopy.
+- **Ultrasound:** Piezoelectric generation. A/B scans. Acoustic impedance $Z = \rho c$. Doppler blood flow $\frac{\Delta f}{f_0} = \frac{2v}{c}\cos\theta$.
+- **MRI:** Precession, resonance, relaxation. Larmor frequency $f = 42.6 \times 10^6 B$.
+- **Radiation Dose:** Absorbed dose (Gy), Equivalent dose ($H = DW_R$), Effective dose ($E = HW_T$).
+- **Radioisotopes:** Tracers (Tc-99m), Gamma camera, PET scanning.
+
+### Option C: The Physics of Sports
+- **Mechanics:** Centre of gravity/stability, Principle of moments, Newton's 2nd law. Coefficient of restitution $e = \sqrt{h/H}$.
+- **Rotational Dynamics:** Moment of inertia $I$; Torque $\tau = I\alpha$; Angular momentum $L = I\omega$. Conservation laws; Rotational KE = $\frac{1}{2}I\omega^2$.
+- **Fluids/Projectiles:** Projectile motion; Bernoulli’s equation $p = p_0 - \frac{1}{2}\rho v^2$; Drag force $F_D = \frac{1}{2}\rho v^2 A C_D$.
+
+### Option D: Energy and the Environment
+- **Earth's Climate:** Thermal equilibrium, solar power spectrum, Wien's law, Stefan-Boltzmann law. Rising sea levels (Archimedes' principle).
+- **Power Sources:** Solar ($I = P/A$), wind (Power $= \frac{1}{2}\rho A v^3$), tidal, hydroelectric, pumped storage. Nuclear fission/fusion. Fuel cells.
+- **Thermal Conduction:** $Q/t = -AK\frac{\Delta\theta}{\Delta x}$. Heat loss $= UA\Delta\theta$.
+
+## A2 UNIT 5: PRACTICAL EXAMINATION
+- **Experimental Task:** 90 mins (apparatus and experimental problem).
+- **Practical Analysis Task:** 60 mins (experimental data analysis).# physics-wjec
